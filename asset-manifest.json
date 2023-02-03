@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/foodOrderingApp/static/js/main.9e184da5.js",
+    "static/media/meals.jpg": "/foodOrderingApp/static/media/meals.2971f633fc1382581cbf.jpg",
+    "static/media/cart1.gif": "/foodOrderingApp/static/media/cart1.ce4e9f042bb92d87b30f.gif",
+    "index.html": "/foodOrderingApp/index.html",
+    "main.9e184da5.js.map": "/foodOrderingApp/static/js/main.9e184da5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9e184da5.js"
+  ]
+}
